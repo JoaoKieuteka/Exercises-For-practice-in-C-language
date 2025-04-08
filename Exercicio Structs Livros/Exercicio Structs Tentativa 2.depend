@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742864192 source:c:\users\jaora\onedrive\Área de trabalho\codeblocks\projetos\exercicio structs tentativa 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
