@@ -11,3 +11,12 @@ This one is about couting the vowels in a text that the user types on a console,
 Exercise 3 - Student Grades:
 
 Here is the one that stores the students grades in a matrix 4x2, the first dimension represents the number of students, the second one is their respective grades, in the end the console prints out the grades of each student and calculates the avarage grade of them.
+
+Exercise 4 - Calculator:
+
+Thats the classic "Calculator algorithm", in this one I created an array called "NumerosUsuario" that stores the numbers that the user typed in, there is the "Menu" function that selects which arithmetic operation the user wants to use and stores it in a int type variable called "Operacao", after that i created 4 functions, each one of them represents a arithmetic operation, there is one for Sum, Subtraction, Multiplication and Division, and I created a "Switch" case inside of a "While loop" in the main function, that picks the right operation the user wants to make.
+
+OBS 1: There is a print function in the end of each arithmetic function, It prints out the result of the math involving the User numbers.
+
+OBS 2: The user selects the operation by typing in a number 1 to 4, if the user types a number below 1 or above 4, the algorithm returns to the beginning of the "Menu" function, which is the one that stores the number of the operation the user types in.
+
