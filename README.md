@@ -7,3 +7,7 @@ Here I did a simple algorithm that randomizes a number, stores it in a Int type 
 Exercise 2 - Vowels:
 
 This one is about couting the vowels in a text that the user types on a console, here the user types a text with a 100 characters limit, the algorithm stores it in a array named "TextoUsuario" with the fgets function, and uses a for loop that counts how many of each vowels are in the text that the user typed in, in the end the console prints out the number of each vowel containing in the text.
+
+Exercise 3 - Student Grades:
+
+Here is the one that stores the students grades in a matrix 4x2, the first dimension represents the number of students, the second one is their respective grades, in the end the console prints out the grades of each student and calculates the avarage grade of them.
