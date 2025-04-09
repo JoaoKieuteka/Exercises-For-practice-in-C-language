@@ -20,3 +20,14 @@ OBS 1: There is a print function in the end of each arithmetic function, It prin
 
 OBS 2: The user selects the operation by typing in a number 1 to 4, if the user types a number below 1 or above 4, the algorithm returns to the beginning of the "Menu" function, which is the one that stores the number of the operation the user types in.
 
+Exercise 5 - Book Structures:
+
+This is the most complex one, It gave me some trouble finding out how to make a bubble sort algorithm and printing the result on the screen, here I created a Struct called "Livros", containing on each one of them a char type variable "NomeLivros" that stores a name for a book, a char type variable "NomeAutor" that stores the name of the author that wrote the book and a int type variable "numeroPaginas" that stores the number of pages the same book has, after that I created a structure array called "LivrosRegistrados" with 3 positions, each one of them represents a different book.
+
+I created a function called "RegistroLivros" that captures the input of the user and stores it on their respective variables, the first one stores the Name of the book, the second one stores the name of the author and the last one the number of pages, all 3 of them are inside of a for loop that repeats itself 3 times, each time will store the values in a diffent position of the array "LivrosRegistrados".
+
+After that I created the "MostrarDados" function, simply it just shows the stored variables within the "LivrosRegistrados" array in each position, then it comes the complicated part, here we have a bubble sort algorithm that makes and ordenation of the array, it puts the book with the most pages in the last position of the array alongside with its name and the author name as well.
+
+I will not explain exactly how it works, if you are interested in reading some more about it, you can look it up here: https://www.programmingsimplified.com/c/source-code/c-program-bubble-sort
+
+
