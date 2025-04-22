@@ -28,6 +28,6 @@ I created a function called "RegistroLivros" that captures the input of the user
 
 After that I created the "MostrarDados" function, simply it just shows the stored variables within the "LivrosRegistrados" array in each position, then it comes the complicated part, here we have a bubble sort algorithm that makes and ordenation of the array, it puts the book with the most pages in the last position of the array alongside with its name and the author name as well.
 
-I will not explain exactly how it works, if you are interested in reading some more about it, you can look it up here: <a href="https://www.programmingsimplified.com/c/source-code/c-program-bubble-sort">Bubble sort explanation</a>
+I will not explain exactly how it works, if you are interested in reading some more about it, you can look it up here: <a href="https://www.programmingsimplified.com/c/source-code/c-program-bubble-sort" target="_blank">Bubble sort explanation</a>
 
 
